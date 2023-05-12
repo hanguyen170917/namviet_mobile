@@ -1,0 +1,30 @@
+$aligns: left, center, right;
+@each $align in $aligns {
+  .text-#{$align} {
+    text-align: $align;
+  }
+}
+
+$displays: inline, inline-block, block, inline-flex, flex, grid;
+@each $display in $displays {
+  .#{$displays} {
+    text-align: $display;
+  }
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-auto {
+  width: auto;
+}
+
+.h-auto {
+  height: auto;
+}
+
