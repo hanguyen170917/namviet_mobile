@@ -840,20 +840,20 @@ export default {
         label: "#4a4946",
         images: [
           {
-            src: "../src/assets/images/color-product-0.png",
-            zoomSrc: "../src/assets/images/color-product-0-zoom.png",
+            src: "https://i.imgur.com/ALTAXa1.png",
+            zoomSrc: "https://i.imgur.com/k0z2lak.png",
           },
           {
-            src: "../src/assets/images/color-product-0.png",
-            zoomSrc: "../src/assets/images/color-product-0-zoom.png",
+            src: "https://i.imgur.com/ALTAXa1.png",
+            zoomSrc: "https://i.imgur.com/k0z2lak.png",
           },
           {
-            src: "../src/assets/images/color-product-0.png",
-            zoomSrc: "../src/assets/images/color-product-0-zoom.png",
+            src: "https://i.imgur.com/ALTAXa1.png",
+            zoomSrc: "https://i.imgur.com/k0z2lak.png",
           },
           {
-            src: "../src/assets/images/color-product-0.png",
-            zoomSrc: "../src/assets/images/color-product-0-zoom.png",
+            src: "https://i.imgur.com/ALTAXa1.png",
+            zoomSrc: "https://i.imgur.com/k0z2lak.png",
           },
         ],
       },
@@ -862,20 +862,20 @@ export default {
         label: "#ffdfba",
         images: [
           {
-            src: "../src/assets/images/color-product-1.png",
-            zoomSrc: "../src/assets/images/color-product-1-zoom.png",
+            src: "https://i.imgur.com/1i45etM.png",
+            zoomSrc: "https://i.imgur.com/3KTcMCQ.png",
           },
           {
-            src: "../src/assets/images/color-product-1.png",
-            zoomSrc: "../src/assets/images/color-product-1-zoom.png",
+            src: "https://i.imgur.com/1i45etM.png",
+            zoomSrc: "https://i.imgur.com/3KTcMCQ.png",
           },
           {
-            src: "../src/assets/images/color-product-1.png",
-            zoomSrc: "../src/assets/images/color-product-1-zoom.png",
+            src: "https://i.imgur.com/1i45etM.png",
+            zoomSrc: "https://i.imgur.com/3KTcMCQ.png",
           },
           {
-            src: "../src/assets/images/color-product-1.png",
-            zoomSrc: "../src/assets/images/color-product-1-zoom.png",
+            src: "https://i.imgur.com/1i45etM.png",
+            zoomSrc: "https://i.imgur.com/3KTcMCQ.png",
           },
         ],
       },
@@ -884,20 +884,20 @@ export default {
         label: "#adcce8",
         images: [
           {
-            src: "../src/assets/images/color-product-2.png",
-            zoomSrc: "../src/assets/images/color-product-2-zoom.png",
+            src: "https://i.imgur.com/ZCD80Fx.png",
+            zoomSrc: "https://i.imgur.com/oVNgr7k.png",
           },
           {
-            src: "../src/assets/images/color-product-2.png",
-            zoomSrc: "../src/assets/images/color-product-2-zoom.png",
+            src: "https://i.imgur.com/ZCD80Fx.png",
+            zoomSrc: "https://i.imgur.com/oVNgr7k.png",
           },
           {
-            src: "../src/assets/images/color-product-2.png",
-            zoomSrc: "../src/assets/images/color-product-2-zoom.png",
+            src: "https://i.imgur.com/ZCD80Fx.png",
+            zoomSrc: "https://i.imgur.com/oVNgr7k.png",
           },
           {
-            src: "../src/assets/images/color-product-2.png",
-            zoomSrc: "../src/assets/images/color-product-2-zoom.png",
+            src: "https://i.imgur.com/ZCD80Fx.png",
+            zoomSrc: "https://i.imgur.com/oVNgr7k.png",
           },
         ],
       },
@@ -906,20 +906,20 @@ export default {
         label: "#f8f9f3",
         images: [
           {
-            src: "../src/assets/images/color-product-3.png",
-            zoomSrc: "../src/assets/images/color-product-3-zoom.png",
+            src: "https://i.imgur.com/nJtwUv6.png",
+            zoomSrc: "https://i.imgur.com/Bp4Bayl.png",
           },
           {
-            src: "../src/assets/images/color-product-3.png",
-            zoomSrc: "../src/assets/images/color-product-3-zoom.png",
+            src: "https://i.imgur.com/nJtwUv6.png",
+            zoomSrc: "https://i.imgur.com/Bp4Bayl.png",
           },
           {
-            src: "../src/assets/images/color-product-3.png",
-            zoomSrc: "../src/assets/images/color-product-3-zoom.png",
+            src: "https://i.imgur.com/nJtwUv6.png",
+            zoomSrc: "https://i.imgur.com/Bp4Bayl.png",
           },
           {
-            src: "../src/assets/images/color-product-3.png",
-            zoomSrc: "../src/assets/images/color-product-3-zoom.png",
+            src: "https://i.imgur.com/nJtwUv6.png",
+            zoomSrc: "https://i.imgur.com/Bp4Bayl.png",
           },
         ],
       },
