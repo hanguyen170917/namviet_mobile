@@ -76,12 +76,34 @@
               <span>NHÃN HÀNG NỔI TIẾNG</span>
             </div>
             <n-grid y-gap="10" x-gap="28" cols="2" responsive="screen">
-              <n-gi v-for="item in 6" :key="item">
+              <n-gi>
                 <a href="#" class="brand-item">
-                  <img
-                    :src="getImageUrl(`../../assets/images/brand-${item}.png`)"
-                    alt=""
-                  />
+                  <img src="https://i.imgur.com/oZOo8g0.png" alt="" />
+                </a>
+              </n-gi>
+              <n-gi>
+                <a href="#" class="brand-item">
+                  <img src="https://i.imgur.com/7f9wFCh.png" alt="" />
+                </a>
+              </n-gi>
+              <n-gi>
+                <a href="#" class="brand-item">
+                  <img src="https://i.imgur.com/X04m3X0.png" alt="" />
+                </a>
+              </n-gi>
+              <n-gi>
+                <a href="#" class="brand-item">
+                  <img src="https://i.imgur.com/4Z4oyHc.png" alt="" />
+                </a>
+              </n-gi>
+              <n-gi>
+                <a href="#" class="brand-item">
+                  <img src="https://i.imgur.com/UIIFGSs.png" alt="" />
+                </a>
+              </n-gi>
+              <n-gi>
+                <a href="#" class="brand-item">
+                  <img src="https://i.imgur.com/oZOo8g0.png" alt="" />
                 </a>
               </n-gi>
             </n-grid>
